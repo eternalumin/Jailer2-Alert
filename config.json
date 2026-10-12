@@ -1,12 +1,10 @@
 {
   "detector": "venue_date",
-  "movie": "The Paradise",
-  "requested_date": "20260923",
+  "movie": "Jailer 2",
+  "requested_date": "20261015",
   "venue_codes": [
-    "PSMP",
-    "CPCM",
     "CGSM"
   ],
-  "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/the-paradise/buytickets/ET00436621/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/jailer-2/buytickets/ET00521980/20261015?etCodes=*&language=telugu&refEventCode=ET00521980",
   "min_references": 10   
 }
